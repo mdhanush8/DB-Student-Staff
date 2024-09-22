@@ -1,0 +1,3 @@
+name,roll_number,department,class_,date_of_birth,gender,address,phone_number,mail_id,marksheet,certificate,password
+sun,1,SAP,D,2002-12-02,,chennai,8056577493,mani23@gmail.com,10th,school,sun
+arun,2,cse,D,2002-12-02,male,chennai,8056577493,arun@gmail.com,12th,excel course advance,arun
